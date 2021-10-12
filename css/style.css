@@ -1,0 +1,59 @@
+.header{
+	min-height: 80px;
+	background-color: red;
+	text-align: center;
+}
+.wrapper{
+overflow: hidden;
+border: 5px solid deepskyblue;
+
+}
+
+.contact{
+min-height: 150px;
+width: 60%;
+background-color: green ;
+float: left;
+
+}
+
+.blog{
+min-height: 150px;
+width: 40%;
+background-color: yellowgreen ;
+float: right;
+
+}
+
+.container{
+	border:5px skyblue solid;
+	overflow: hidden;
+
+}
+.single{
+	min-height: 100px;
+	float: left;
+	width: 33.33%;
+}
+.cyan{
+	background-color: cyan;
+	
+}
+.orange{
+	background-color: darkorange;
+	
+}
+
+.yellow{
+background-color: yellowgreen;
+
+}
+
+.footer{
+	min-height: 100px;
+	background-color: black;
+	text-align: center;
+	color: red;
+	/*clear:  both;* Note:  clearfix is not good than overflow/
+
+}
